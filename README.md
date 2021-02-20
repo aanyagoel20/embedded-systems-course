@@ -10,8 +10,7 @@ Due to COVID-19, in-person robotics meetings and thus competitions have become l
 - Elegoo’s Super Starter Kit Uno R3 Project ($36.99 on Amazon)
 
 
-[TO-DO 1]  
-Practice pulling new code to your fork that has been uploaded to the main repository! Delete this line.
+
 
 ## Log
 
